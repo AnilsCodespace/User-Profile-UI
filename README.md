@@ -1,4 +1,4 @@
-# profile_assi
+# User Profile UI
 
 Profile Page Assignment
 ![873e4901-0667-4456-8464-085317882870](https://user-images.githubusercontent.com/87460435/200134021-59db21fc-4d14-4bfc-bb0f-5fa36625e43c.jpg)
